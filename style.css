@@ -1,0 +1,12 @@
+@import url('https://fonts.cdnfonts.com/css/comic-sans');
+
+html {
+    background-image: url(photos/hot.png);
+    text-align: center;
+    color: blueviolet;
+    font-family: 'Comic Sans', sans-serif;
+}
+
+.fit {
+  width: 100%;
+}
