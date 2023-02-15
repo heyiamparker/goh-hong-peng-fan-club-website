@@ -10,3 +10,13 @@ html {
 .fit {
   width: 100%;
 }
+
+.left {
+  background-image: url(photos/eyes/left.png);
+  padding: 0.75em;
+}
+
+.right {
+  background-image: url(photos/eyes/right.png);
+  padding: 0.75em;
+}
