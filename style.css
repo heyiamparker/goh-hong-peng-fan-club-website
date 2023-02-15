@@ -1,10 +1,10 @@
 @import url('https://fonts.cdnfonts.com/css/comic-sans');
+@import url('https://fonts.googleapis.com/css2?family=Babylonica&display=swap');
 
 html {
     background-image: url(photos/hot.png);
     text-align: center;
     color: blueviolet;
-    font-family: 'Comic Sans', sans-serif;
 }
 
 .fit {
@@ -14,9 +14,25 @@ html {
 .left {
   background-image: url(photos/eyes/left.png);
   padding: 0.75em;
+  border-radius: 5000px;
+  font-family: 'Comic Sans', sans-serif;
 }
 
 .right {
   background-image: url(photos/eyes/right.png);
   padding: 0.75em;
+  border-radius: 5000px;
+  font-family: 'Comic Sans', sans-serif;
+}
+
+.one {
+  font-family: 'Comic Sans', sans-serif;
+}
+
+.two {
+  font-family: lobster, cursive;
+}
+
+.three {
+font-family: 'Babylonica', cursive;
 }
