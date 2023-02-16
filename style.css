@@ -36,3 +36,8 @@ html {
 .three {
 font-family: 'Babylonica', cursive;
 }
+
+.logo {
+  width: 50px;
+  border-radius: 100px;
+}
